@@ -29,3 +29,6 @@ Toshi Kiyonari Zabala y Sophie Mercado Zaballos
 Estado actual del proyecto
 
 En desarrollo. Actualmente se está organizando la información principal para construir una página web educativa sobre el Muay Thai.
+
+<img width="600" height="871" alt="a0791926495b9a50360bcc356633a64c" src="https://github.com/user-attachments/assets/30fab412-046b-4135-a254-c80a1458d3f2" />
+
